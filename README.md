@@ -54,7 +54,7 @@ Users should be able to:
       </ul>
   </div>
 
-```html
+```
 
 <h2>Some CSS code I'm proud of (I tried hard to position this element to overlay the footer)</h2>
 
