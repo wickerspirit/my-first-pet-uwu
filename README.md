@@ -85,5 +85,3 @@ Users should be able to:
       min-height: 100px;
       height: auto;
         }
-
-```css
